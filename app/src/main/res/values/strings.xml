@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Name of the App  [Char Limit 12] -->
+    <string name="app_name">CoffeeShop</string>
+    <!-- Quantity Heading [Char Limit 20 -->
+    <string name="quantity">"QUANTITY"</string>
+    <!-- Number of coffees being ordered -->
+    <string name="total">"1"</string>
+    <!-- Plus Sign to increase order by one -->
+    <string name="addOne">" + "</string>
+    <!-- Minus Sign to decrease order by one -->
+    <string name="minusOne">" - "</string>
+    <string name="price">"Order Summary"</string>
+    <string name="cost">"$0"</string>
+    <string name="order">"ORDER"</string>
+    <string name="top">"TOPPINGS"</string>
+    <string name="cream">"Whipped Cream"</string>
+    <string name="chocolate">"Chocolate"</string>
+    <string name="name">Name: <xliff:g id="name" example="Amy"> </xliff:g> </string>
+    <string name="thanks">"Thank You!"</string>
+    <string name="addChocolate">"Add Chocolate?"</string>
+    <string name="addWhippedCream">"Add Whipped Cream?"</string>
+    <string name="totalTwo">"Total: $"</string>
+</resources>

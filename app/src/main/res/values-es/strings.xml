@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="thanks">"¡Gracias! "</string>
+    <string name="quantity">CANTIDAD</string>
+    <string name="order">ORDEN</string>
+    <string name="top">Ingredientes</string>
+    <string name="cream">Crema Batida</string>
+    <string name="chocolate">El Chocolate</string>
+    <string name="addChocolate">Agregue Chocolate?</string>
+    <string name="addWhippedCream">Agregue Crema Batida?</string>
+    <string name="totalTwo">Total: $</string>
+    <string name="name">"Nombre "</string>
+</resources>
